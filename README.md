@@ -150,6 +150,6 @@ https://github.com/user-attachments/assets/d84366d6-7bc3-4767-b86e-53b60194b5db
 
 ## Notes
 **Course:** Sensors and Metrology  
-**Semester:** 3
+**Semester:** 2
 
 [Refer to the docs folder for more data about the project]
